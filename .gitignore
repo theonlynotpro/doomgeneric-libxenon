@@ -1,6 +1,9 @@
 *.o
 *.obj
 *.exe
+*.WAD
+*.elf
+*.elf32
 *.DS_Store
 *.log
 *.user
